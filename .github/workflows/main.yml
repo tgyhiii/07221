@@ -1,4 +1,4 @@
-name: sixhour
+name: sixhou
 on:
   schedule:
     - cron: '57 4,12,20 * * *'
